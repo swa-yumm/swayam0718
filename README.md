@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @swayam0718
-- 👀 I’m interested in Python projects
-- 🌱 I’m currently learning some more Python, HTML and CSS. I'm pretty decent in Python and I'm looking forward in improving myself and working on open source projects.I don't mind learning something new and executing it.
+- 👀 I’m interested in Web Dev.
+- 🌱 I’m currently done learning HTML and CSS. I know Javascript too. I have a few projects too on HTML,CSS AND JS. 
 - 💞️ I’m looking to collaborate on some companies. I wanna work on some open source projects. 
 - 📫 How to reach me on instagram: swa_yummm
 - And I'm new to Github so excuse me. 

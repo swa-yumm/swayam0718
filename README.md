@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @swayam0718
+- 👋 Hi, I’m @swa-yumm
 - 👀 I’m interested in Web Dev.
 - 🌱 I’m currently doing Front-end.
 - 💞️ I wanna work on some open source projects if possible.

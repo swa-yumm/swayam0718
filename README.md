@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @swayam0718
 - 👀 I’m interested in Web Dev.
-- 🌱 I’m currently done learning HTML and CSS. I know Javascript too. I have a few projects too on HTML,CSS AND JS. 
-- 💞️ I’m looking to collaborate on some companies. I wanna work on some open source projects. 
-- 📫 How to reach me on instagram: swa_yummm
+- 🌱 I’m currently doing Front-end.
+- 💞️ I wanna work on some open source projects if possible.
+- 📫 How to reach me on Instagram: swa_yummm_
 - And I'm new to Github so excuse me. 
 
 <!---
